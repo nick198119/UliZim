@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-16T00:06:46.095502
+
+====== GitHub ======
+
+
+Created 星期六 16 四月 2011
+
+git config --global user.name "uli"
+
+git config --global user.email nick198119@gmail.com
+
+
+cd projectDir
+
+git init
+
+git add .
+
+git remote add origin git@github.com:nick198119/UliZim.git
+
+git push -u origin master
