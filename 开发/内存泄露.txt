@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-12T21:44:52.244708
+
+====== 内存泄露 ======
+Created 星期二 12 四月 2011
+
+最简单的方法当然是借助于专业的检测工具，比较有名如BoundsCheck,功能非常强大，相信做C++开发的人都离不开它。
